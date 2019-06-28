@@ -7,4 +7,23 @@
     padding: 10px;
   } */
  
-/* 16-5 fetch API */  
+/* 16-5 fetch API */
+body {
+    background-color: #55acef;
+} 
+
+.wrapper {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+button {
+    background-color: #55acef;;
+    color: white;
+    display: block;
+    padding: 5px 80px;
+    border: 1px solid white;
+    margin: 20px auto;
+}
