@@ -1,6 +1,6 @@
 'use strict';
-
-var url = 'http://api.icndb.com/jokes/random';
+/* 16-4 first ask*/
+/*var url = 'http://api.icndb.com/jokes/random';
 var paragraph = document.getElementById('joke');
 
 var button = document.getElementById('get-joke');
@@ -17,4 +17,6 @@ function getJoke() {
   });
   xhr.send();
 }
-document.addEventListener('DOMContentLoaded', getJoke());
+document.addEventListener('DOMContentLoaded', getJoke()); */
+
+/* 16-5 fetch API */
